@@ -1,0 +1,2 @@
+#define test-thread-pinning_VERSION_MAJOR @test-thread-pinning_VERSION_MAJOR@
+#define test-thread-pinning_VERSION_MINOR @test-thread-pinning_VERSION_MINOR@
